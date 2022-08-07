@@ -1,8 +1,8 @@
 # Scraping Wikipedia Content Using Python
 
-> Usage: python wiki.py [arg]
+> Usage: `python wiki.py [arg]`
 
-> Example: python wiki.py vscode
+> Example: `python wiki.py vscode`
 
 ### Screenshot:
 
